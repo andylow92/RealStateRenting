@@ -52,7 +52,7 @@ Usage
 
     bash
 
-    uvicorn app:app --reload
+    uvicorn main:app --reload
 
     The application should now be running locally. You can access it by opening your web browser and navigating to http://localhost:8000.
 
